@@ -1,8 +1,8 @@
 ### EX1 Creaion of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ##### DATE: 08.02.24
 ```
-Name: Hariharan.M
-Reg.No:212221230034
+Name: sarvesh.s
+Reg.No:212222230135
 ```
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
